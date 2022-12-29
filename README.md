@@ -1,2 +1,2 @@
 # resume-using-tex
-Resume using Tex by Scratch
+LateX resume from Scratch
