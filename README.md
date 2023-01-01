@@ -1,2 +1,2 @@
-# resume-using-tex
+# resume-using-lateX
 LateX resume from Scratch
